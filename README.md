@@ -3,7 +3,7 @@
 [Project Page](https://github.com/p199yw4ng/EL-FDL/new/main/) | [Paper]() | [Personal HomePage](https://github.com/p199yw4ng/)
 
 ### Updates
-[**2024.06.27**]  🎉🎉🎉 Our DiffUIR paper was accepted by ICANN 2024 🎉🎉🎉 <br>
+[**2024.06.27**]  🎉🎉🎉 Our EL-FDL paper was accepted by ICANN 2024 🎉🎉🎉 <br>
 
 
 
