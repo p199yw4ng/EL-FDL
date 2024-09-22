@@ -17,6 +17,15 @@ If you find this project helpful in your research, welcome to cite the paper.
 
 
 ```
+@inproceedings{wang2024fdl,
+  title={EL-FDL: Improving Image Forgery Detection and Localization via Ensemble Learning},
+  author={Wang, Bin and Wang, Feifan and Wang, Jingge and Yan, Haonan and Zhou, Shaopeng and Li, Chaohao},
+  booktitle={International Conference on Artificial Neural Networks},
+  pages={248--262},
+  year={2024},
+  organization={Springer}
+}
+```
 
 # Acknowledgements
 
