@@ -1,10 +1,10 @@
 ## EL-FDL: Improving Image Forgery Detection and Localization via Ensemble Learning <br>
 
-[Project Page](https://github.com/p199yw4ng/EL-FDL/new/main/) | [Paper]() | [Personal HomePage](https://github.com/p199yw4ng/)
+[Project Page](https://github.com/p199yw4ng/EL-FDL/new/main/) | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-72335-3_17) | [Personal HomePage](https://github.com/p199yw4ng/)
 
 ### Updates
 [**2024.06.27**]  🎉🎉🎉 Our EL-FDL paper was accepted by ICANN 2024 🎉🎉🎉 <br>
-
+[**2024.09.17**]  🎉🎉🎉 Our EL-FDL paper was published 🎉🎉🎉 <br>
 
 
 
